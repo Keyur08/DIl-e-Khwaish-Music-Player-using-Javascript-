@@ -43,7 +43,7 @@ let track_list = [
     name: "Main Nikla Gaddi leke",
     artist: "Uttam Singh",
     image: "images\main nikla gaddi.jpg",
-    path: "C:\Users\keyur\OneDrive\Documents\Sem-5\JAVASCRIPT\Songs\Main Nikla Gaddi Leke.mp3",
+    path: "https://github.com/Keyur08/DIl-e-Khwaish/blob/main/Songs/Main%20Nikla%20Gaddi%20Leke.mp3",
   },
 ];
 
